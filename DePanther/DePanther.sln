@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples.Editor", "Unity.XR.Management.Samples.Editor.csproj", "{fb88cb90-2ef4-406c-2ad6-5104c52b4b5f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples", "Unity.XR.Management.Samples.csproj", "{5ac2a1c6-2055-ae5d-fba1-91a05a5e4fae}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{fb88cb90-2ef4-406c-2ad6-5104c52b4b5f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb88cb90-2ef4-406c-2ad6-5104c52b4b5f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ac2a1c6-2055-ae5d-fba1-91a05a5e4fae}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ac2a1c6-2055-ae5d-fba1-91a05a5e4fae}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
